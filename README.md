@@ -1,1 +1,1 @@
-# Website-Designs-Example
+# Resturant Web page template
